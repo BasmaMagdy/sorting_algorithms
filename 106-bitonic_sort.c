@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "sort.h"
 /**
 * bitonic_compare - sort bitonic algorithm
